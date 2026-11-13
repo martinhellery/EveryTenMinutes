@@ -1,0 +1,11 @@
+# Serie di terzi scaricate da scarica_dati.py: non vanno ridistribuite
+data/*
+!data/.gitkeep
+btc_cm.csv
+hr_all.json
+book/price_daily.csv
+# Figure generate
+book/fig/*
+!book/fig/.gitkeep
+__pycache__/
+.DS_Store
